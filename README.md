@@ -1,6 +1,6 @@
 # Coffe Shop Website☕
 PTBR:
-Este site foi criado seguindo um vídeo tutorial como parte dos meus estudos em HTML, CSS e JavaScript. O objetivo foi fortalecer minhas habilidades praticando com exemplos reais. Todos os créditos pelo design e ideia original vão para o criador do conteúdo. Este projeto é apenas para fins educacionais.
+Criei este site seguindo um vídeo tutorial em inglês como forma de reforçar meus conhecimentos tanto em programação quanto no inglês técnico. Durante o projeto, utilizei HTML, CSS e JavaScript para construir a estrutura, o estilo e a interatividade do site. Essa experiência prática me ajudou a entender melhor o desenvolvimento web no mundo real e a melhorar minha capacidade de acompanhar conteúdos e instruções em inglês. Este projeto é apenas para fins educacionais, e todos os créditos pelo design original vão para o criador do conteúdo.
 
 EN:
-This website was created by following a tutorial video as part of my learning journey in HTML, CSS, and JavaScript. The goal was to strengthen my skills by practicing real-world examples. All credit for the original design and idea goes to the content creator. This project is for educational purposes only.
+I created this website by following an English tutorial video as a way to strengthen my knowledge in both programming and technical English. Throughout the project, I worked with HTML, CSS, and JavaScript to build the structure, style, and interactivity of the site. This hands-on experience helped me better understand real-world web development while also improving my ability to follow content and instructions in English. This project is for educational purposes only, and all credit for the original design goes to the content creator.
